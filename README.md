@@ -1,15 +1,15 @@
-## Tópicos Essenciais para o Vestibulinho em Menos de um Mês: Links para Estudo
+## Tópicos Essenciais para o Vestibulinho ETEC em Menos de um Mês: Links para Estudo
 
-Com pouco tempo, foque nos tópicos mais frequentes e relevantes, priorizando a prática de exercícios para fixar o conteúdo. Aqui estão links para te ajudar:
+Com menos de um mês para o Vestibulinho, foco nos tópicos mais frequentes e relevantes, priorizando a prática de exercícios para fixar o conteúdo. Aqui estão os links para te ajudar:
 
 **1. Língua Portuguesa e Interpretação de Textos:**
 
-* **Compreensão e interpretação de textos:** 
+* **Compreensão e interpretação de textos:**
     * [Khan Academy - Leitura e Escrita](https://pt.khanacademy.org/humanities/literature/reading-literature/reading-strategies/a/reading-strategies): Aprenda técnicas para compreender textos e identificar a ideia central.
     * [Blog da Editora Moderna - Interpretação de Textos](https://blog.moderna.com.br/interpretacao-de-textos-dicas-para-voce-ter-sucesso/): Dicas e estratégias para interpretar diferentes tipos de textos.
-* **Identificação da ideia central:** 
+* **Identificação da ideia central:**
     * [Educa Mais Brasil - Dicas para identificar a ideia principal de um texto](https://www.educamaisbrasil.com.br/enem/lingua-portuguesa/interpretacao-de-textos): Aprenda a identificar o tema central de um texto e as ideias-chave de cada parágrafo.
-* **Interpretação de recursos linguísticos:** 
+* **Interpretação de recursos linguísticos:**
     * [Portal da Língua Portuguesa - Figuras de Linguagem](https://www.portaldalinguaportuguesa.org/textos/183-figuras-de-linguagem-defini%C3%A7%C3%B5es-e-exemplos): Aprenda sobre as principais figuras de linguagem e seus efeitos.
 * **Análise de conectivos:**
     * [Gramática Online - Conjunções e Conectivos](https://www.gramaticaonline.com.br/conjuncoes-e-conectivos/):  Entenda as diferentes conjunções e conectivos e suas funções na construção de sentido.
@@ -46,10 +46,10 @@ Com pouco tempo, foque nos tópicos mais frequentes e relevantes, priorizando a 
 * **Matemática básica:**
     * [Khan Academy - Matemática](https://pt.khanacademy.org/math):  Revise as operações básicas, frações, porcentagem, razão e proporção, regra de três simples.
     * [Matemática Essencial - Cálculos básicos](https://www.matematicessencial.com.br/matematica-basica/):  Tutoriais e exercícios para praticar matemática básica.
-* **Geometria:** 
+* **Geometria:**
     * [Khan Academy - Geometria](https://pt.khanacademy.org/math/geometry):  Aprenda sobre triângulos, quadriláteros, circunferência, área, volume.
     * [Só Matemática - Geometria](https://www.somatematica.com.br/fundam/geom/geom.php):  Exercícios e explicações sobre os principais conceitos da geometria.
-* **Interpretação de dados:** 
+* **Interpretação de dados:**
     * [Educa Mais Brasil - Gráficos e Tabelas](https://www.educamaisbrasil.com.br/enem/matematica/interpretacao-de-dados):  Aprenda a interpretar dados apresentados em gráficos e tabelas.
 
 **5. Ciências da Natureza:**
@@ -81,6 +81,6 @@ Com pouco tempo, foque nos tópicos mais frequentes e relevantes, priorizando a 
 * **Crie flashcards:**  para memorizar conceitos, datas e informações importantes.
 * **Utilize resumos e mapas mentais:**  para organizar o conteúdo e facilitar a revisão.
 * **Foco nos tópicos essenciais:**  não tente abarcar tudo. Priorize o que cai mais e o que você domina menos.
-* **Descanso e organização:**  organize seus estudos e reserve tempo para descansar e evitar o esgotamento. 
+* **Descanso e organização:**  organize seus estudos e reserve tempo para descansar e evitar o esgotamento.
 
-Lembre-se: **a prática constante e a organização são seus aliados!**  Com dedicação e foco, você pode ter um bom resultado no Vestibulinho. Boa sorte! 
+Lembre-se: **a prática constante e a organização são seus aliados!**  Com dedicação e foco, você pode ter um bom resultado no Vestibulinho. Boa sorte!
