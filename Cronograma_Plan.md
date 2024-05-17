@@ -2,12 +2,12 @@
 
 | Data | Assunto | Conteúdo | Materiais / Links | Duração |
 |---|---|---|---|---|
-| *15/05 (Quarta) | Língua Portuguesa | Revisão de gramática básica (ortografia, concordância verbal e nominal, pontuação) | [Ortografia](https://youtube.com/playlist?list=PLeJIU-LYCJ7Lhi_9nZ9jML0K8EdVEHWUi&si=lQyXxUFhY8H9dhOa) - [Condordância Verbal e Nominal](https://youtube.com/playlist?list=PLeJIU-LYCJ7IkMxzMQgoIf7KDCUIYMnga&si=KJdZc0rmiWzyET0T) | 1h30min |
-| *15/05 (Quarta) | História do Brasil | Revisão dos principais períodos (Colônia, Império, República) | [Colônia](https://www.youtube.com/watch?v=6xFgUphkggw) | 1h00min |
+| *15/05 (Quarta) | Língua Portuguesa | Revisão de gramática básica (ortografia, concordância verbal e nominal, pontuação) | [Ortografia](https://youtube.com/playlist?list=PLeJIU-LYCJ7Lhi_9nZ9jML0K8EdVEHWUi&si=lQyXxUFhY8H9dhOa) - [Condordância Verbal e Nominal](https://youtube.com/playlist?list=PLeJIU-LYCJ7IkMxzMQgoIf7KDCUIYMnga&si=KJdZc0rmiWzyET0T) - [Pontuação](https://youtube.com/playlist?list=PLeJIU-LYCJ7INnTg6Mvlxf2X49cM57_SD&si=zz6xLUGeQUNO-JwK) | 1h30min |
+| *15/05 (Quarta) | História do Brasil | Revisão dos principais períodos (Colônia, Império, República) | [Colônia](https://www.youtube.com/watch?v=6xFgUphkggw) ([EX](https://www.todamateria.com.br/exercicios-brasil-colonial/)) <br> [Império](https://www.youtube.com/watch?v=eERlMeLvQlI&ab_channel=TodaMat%C3%A9ria) ([EX](https://exercicios.brasilescola.uol.com.br/exercicios-historia-do-brasil/exercicios-sobre-brasil-imperio.htm)) - [República]() ([EX]()) | 1h00min |
 | *16/05 (Quinta) | Geografia do Brasil | Relevo, clima, vegetação, recursos hídricos | [Relevo, clima, vegetação, recursos hídricos](https://youtube.com/playlist?list=PLeJIU-LYCJ7LWhY__-rfhpLgvy9K991T9&si=NUj8g1ttPLd9rlsH) | 1h30min |
 | *16/05 (Quinta) | Matemática Básica | Operações básicas, frações, porcentagem | [frações, porcentagem](https://youtube.com/playlist?list=PLeJIU-LYCJ7Jd5pf0ljOZwRriUfwVlHfv&si=PZeqLU6ml6VvNVRj)  | 1h00min |
-| 17/05 (Sexta) | REVISÃO | Revise os conteúdos estudados na semana | - | 1h30min |
-| 17/05 (Sexta) | Exercícios | Resolva questões de provas anteriores do Vestibulinho | [Vestibulinho ETEC - Provas Anteriores](https://www.vestibulinhoetec.com.br/provas-gabaritos/) | 1h00min |
+| *17/05 (Sexta) | REVISÃO | Revise os conteúdos estudados na semana | - | 1h30min |
+| *17/05 (Sexta) | Exercícios | Resolva questões de provas anteriores do Vestibulinho | [Vestibulinho ETEC - Provas Anteriores](https://www.vestibulinhoetec.com.br/provas-gabaritos/) | 1h00min |
 | 18/05 (Sábado) | Interpretação de Textos | Compreensão, identificação da ideia central | [Khan Academy - Leitura e Escrita](https://pt.khanacademy.org/humanities/literature/reading-literature/reading-strategies/a/reading-strategies) <br> [Blog da Editora Moderna - Interpretação de Textos](https://blog.moderna.com.br/interpretacao-de-textos-dicas-para-voce-ter-sucesso/) | 1h30min |
 | 18/05 (Sábado) | História de São Paulo | Formação do Estado, eventos e personagens importantes | [Museu Paulista da USP - História de São Paulo](https://www.museudoipiranga.org.br/) <br> [Centro de Pesquisa e Documentação de História Contemporânea do Brasil - CPDOC](https://cpdoc.fgv.br/) | 1h00min |
 
