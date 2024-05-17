@@ -2,7 +2,7 @@
 
 | Data | Assunto | Conteúdo | Materiais / Links | Duração |
 |---|---|---|---|---|
-| *15/05 (Quarta) | Língua Portuguesa | Revisão de gramática básica (ortografia, concordância verbal e nominal, pontuação) | [Ortografia](https://youtube.com/playlist?list=PLeJIU-LYCJ7Lhi_9nZ9jML0K8EdVEHWUi&si=lQyXxUFhY8H9dhOa) | 1h30min |
+| *15/05 (Quarta) | Língua Portuguesa | Revisão de gramática básica (ortografia, concordância verbal e nominal, pontuação) | [Ortografia](https://youtube.com/playlist?list=PLeJIU-LYCJ7Lhi_9nZ9jML0K8EdVEHWUi&si=lQyXxUFhY8H9dhOa) - [Condordância Verbal e Nominal](https://youtube.com/playlist?list=PLeJIU-LYCJ7IkMxzMQgoIf7KDCUIYMnga&si=KJdZc0rmiWzyET0T) | 1h30min |
 | *15/05 (Quarta) | História do Brasil | Revisão dos principais períodos (Colônia, Império, República) | [Colônia](https://www.youtube.com/watch?v=6xFgUphkggw) | 1h00min |
 | 16/05 (Quinta) | Geografia do Brasil | Relevo, clima, vegetação, recursos hídricos | [Brasil Escola - Geografia do Brasil](https://brasilescola.uol.com.br/geografia/brasil/) <br> [IBGE - Atlas do Brasil](https://atlasbrasil.ibge.gov.br/) | 1h30min |
 | 16/05 (Quinta) | Matemática Básica | Operações básicas, frações, porcentagem | [Khan Academy - Matemática](https://pt.khanacademy.org/math) <br> [Matemática Essencial - Cálculos básicos](https://www.matematicessencial.com.br/matematica-basica/) | 1h00min |
