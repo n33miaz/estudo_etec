@@ -7,7 +7,7 @@
 | *16/05 (Quinta) | Geografia do Brasil | Relevo, clima, vegetação, recursos hídricos | [Relevo, clima, vegetação, recursos hídricos](https://youtube.com/playlist?list=PLeJIU-LYCJ7LWhY__-rfhpLgvy9K991T9&si=NUj8g1ttPLd9rlsH) | 1h30min |
 | *16/05 (Quinta) | Matemática Básica | Operações básicas, frações, porcentagem | [frações, porcentagem](https://youtube.com/playlist?list=PLeJIU-LYCJ7Jd5pf0ljOZwRriUfwVlHfv&si=PZeqLU6ml6VvNVRj)  | 1h00min |
 | *18/05 (Sábado) | Conteúdo da Semana | Material que não teve tempo para estudar | - | 1h30min |
-| *18/05 (Sábado) | História de São Paulo | Formação do Estado, eventos e personagens importantes | [Museu Paulista da USP - História de São Paulo](https://www.museudoipiranga.org.br/) <br> [Centro de Pesquisa e Documentação de História Contemporânea do Brasil - CPDOC](https://cpdoc.fgv.br/) | 1h00min |
+| *18/05 (Sábado) | História de São Paulo | Formação do Estado, eventos e personagens importantes | [1º Vídeo](https://youtu.be/XnsMmB5gsY0?si=jIMYo_sFzSyDWZM0) <br> [2º Vídeo](https://youtu.be/N6qpCi_DpQI?si=hnTPaRaUg9bJvK1V) | 1h00min |
 
 
 ## Semana 2 
