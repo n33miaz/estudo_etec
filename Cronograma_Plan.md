@@ -17,14 +17,14 @@
 | 20/05 (Segunda) | Geografia de São Paulo | Meio ambiente, recursos hídricos, áreas protegidas | [Secretaria do Meio Ambiente de São Paulo - Portal](https://www.ambiente.sp.gov.br/) | 1h30min |
 | 20/05 (Segunda) | Matemática | Geometria básica (triângulos, quadriláteros, circunferência, área) | [Khan Academy - Geometria](https://pt.khanacademy.org/math/geometry) <br> [Só Matemática - Geometria](https://www.somatematica.com.br/fundam/geom/geom.php) | 1h00min |
 | 21/05 (Terça) | Interpretação de Textos | Figuras de linguagem e conectivos | [Portal da Língua Portuguesa - Figuras de Linguagem](https://www.portaldalinguaportuguesa.org/textos/183-figuras-de-linguagem-defini%C3%A7%C3%B5es-e-exemplos) <br> [Gramática Online - Conjunções e Conectivos](https://www.gramaticaonline.com.br/conjuncoes-e-conectivos/) | 1h30min |
-| 21/05 (Terça) | História do Brasil | Exercícios de provas anteriores | [Vestibulinho ETEC - Provas Anteriores](https://www.vestibulinhoetec.com.br/provas-gabaritos/) | 1h00min |
-| 22/05 (Quarta) | História de São Paulo | Exercícios de provas anteriores | [Vestibulinho ETEC - Provas Anteriores](https://www.vestibulinhoetec.com.br/provas-gabaritos/) | 1h30min |
+| 21/05 (Terça) | - | - | []() | 1h00min |
+| 22/05 (Quarta) | - | - | []() | 1h30min |
 | 22/05 (Quarta) | Matemática Básica | Razão e proporção, regra de três simples | [Khan Academy - Matemática](https://pt.khanacademy.org/math) <br> [Matemática Essencial - Cálculos básicos](https://www.matematicessencial.com.br/matematica-basica/) | 1h00min |
-| 23/05 (Quinta) | REVISÃO | Revise os conteúdos estudados na semana | - | 1h30min |
-| 23/05 (Quinta) | Exercícios | Resolva questões de provas anteriores do Vestibulinho | [Vestibulinho ETEC - Provas Anteriores](https://www.vestibulinhoetec.com.br/provas-gabaritos/) | 1h00min |
-| 25/05 (Sábado) | Ciências da Natureza | Biologia (conceitos básicos) | [Khan Academy - Biologia](https://pt.khanacademy.org/science/biology) | 1h30min |
-| 25/05 (Sábado) | Ciências da Natureza | Química (conceitos básicos) | [Khan Academy - Química](https://pt.khanacademy.org/science/chemistry) | 1h00min |
-| 25/05 (Sábado) | Atualidades | Temas relevantes para o Brasil e o mundo | [BBC Brasil - Notícias](https://www.bbc.com/portuguese/brasil-50365567) <br> [G1 - Notícias](https://g1.globo.com/) | 30min |
+| 25/05 (Quinta) | Ciências da Natureza | Biologia (conceitos básicos) | [Khan Academy - Biologia](https://pt.khanacademy.org/science/biology) | 1h30min |
+| 25/05 (Quinta) | Ciências da Natureza | Química (conceitos básicos) | [Khan Academy - Química](https://pt.khanacademy.org/science/chemistry) | 1h00min |
+| 25/05 (Quinta) | Atualidades | Temas relevantes para o Brasil e o mundo | [BBC Brasil - Notícias](https://www.bbc.com/portuguese/brasil-50365567) <br> [G1 - Notícias](https://g1.globo.com/) | 30min |
+| 23/05 (Sábado) | REVISÃO | Revise os conteúdos estudados na semana | - | 1h30min |
+| 23/05 (Sábado) | REVISÃO | Revise os conteúdos estudados na semana | - | 1h00min |
 
 
 ## Semana 3 
