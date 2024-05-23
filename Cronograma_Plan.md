@@ -23,20 +23,20 @@
 | 25/05 (Quinta) | Ciências da Natureza | Biologia (conceitos básicos) | [Khan Academy - Biologia](https://pt.khanacademy.org/science/biology) | 1h30min |
 | 25/05 (Quinta) | Ciências da Natureza | Química (conceitos básicos) | [Khan Academy - Química](https://pt.khanacademy.org/science/chemistry) | 1h00min |
 | 25/05 (Quinta) | Atualidades | Temas relevantes para o Brasil e o mundo | [BBC Brasil - Notícias](https://www.bbc.com/portuguese/brasil-50365567) <br> [G1 - Notícias](https://g1.globo.com/) | 30min |
-| 23/05 (Sábado) | REVISÃO | Revise os conteúdos estudados na semana | - | 1h30min |
-| 23/05 (Sábado) | REVISÃO | Revise os conteúdos estudados na semana | - | 1h00min |
+| 23/05 (Sábado) | Geografia do Brasil | Exercícios de provas anteriores | [Vestibulinho ETEC - Provas Anteriores](https://www.vestibulinhoetec.com.br/provas-gabaritos/) | 1h30min |
+| 23/05 (Sábado) | Matemática | Geometria básica (volume) | [Khan Academy - Geometria](https://pt.khanacademy.org/math/geometry) <br> [Só Matemática - Geometria](https://www.somatematica.com.br/fundam/geom/geom.php) | 1h00min |
 
 
 ## Semana 3 
 
 | Data | Assunto | Conteúdo | Materiais / Links | Duração |
 |---|---|---|---|---|
-| 27/05 (Segunda) | Geografia do Brasil | Exercícios de provas anteriores | [Vestibulinho ETEC - Provas Anteriores](https://www.vestibulinhoetec.com.br/provas-gabaritos/) | 1h30min |
-| 27/05 (Segunda) | Matemática | Geometria básica (volume) | [Khan Academy - Geometria](https://pt.khanacademy.org/math/geometry) <br> [Só Matemática - Geometria](https://www.somatematica.com.br/fundam/geom/geom.php) | 1h00min |
-| 28/05 <br> (Terça) | Ciências da Natureza | Física (conceitos básicos) | [Khan Academy - Física](https://pt.khanacademy.org/science/physics) | 1h30min |
-| 28/05 <br> (Terça) | Atualidades | Temas relacionados à Amazônia | [WWF-Brasil - Amazônia](https://www.wwf.org.br/natureza/amazonia/) <br> [Instituto Socioambiental - ISA](https://www.socioambiental.org/) | 1h00min |
-| 29/05 (Quarta) | Ciências da Natureza | Biologia (relações ecológicas, adaptação dos seres vivos, cadeia alimentar) | [Biologia Net - Ecologia](https://www.biologianet.com/ecologia/) | 1h30min |
-| 29/05 (Quarta) | Ciências da Natureza | Química (compostos químicos, fórmulas, tipos de substâncias) | [Química Nova na Escola - Artigos](https://qnesc.sbq.org.br/online/) | 1h00min |
+| 27/05 (Segunda) | Ciências da Natureza | Física (conceitos básicos) | [Khan Academy - Física](https://pt.khanacademy.org/science/physics) | 1h30min |
+| 27/05 (Segunda) | Atualidades | Temas relacionados à Amazônia | [WWF-Brasil - Amazônia](https://www.wwf.org.br/natureza/amazonia/) <br> [Instituto Socioambiental - ISA](https://www.socioambiental.org/) | 1h00min |
+| 28/05 <br> (Terça) | Ciências da Natureza | Biologia (relações ecológicas, adaptação dos seres vivos, cadeia alimentar) | [Biologia Net - Ecologia](https://www.biologianet.com/ecologia/) | 1h30min |
+| 28/05 <br> (Terça) | Ciências da Natureza | Química (compostos químicos, fórmulas, tipos de substâncias) | [Química Nova na Escola - Artigos](https://qnesc.sbq.org.br/online/) | 1h00min |
+| 29/05 (Quarta) | REVISÃO | Revise os conteúdos estudados na semana | - | 1h30min |
+| 29/05 (Quarta) | REVISÃO | Revise os conteúdos estudados na semana | - | 1h00min |
 | 30/05 (Quinta) | PROVA TESTE | Faça uma prova antiga da ETEC com calma e dedicação | [Vestibulinho ETEC - Provas Anteriores](https://www.vestibulinhoetec.com.br/provas-gabaritos/) | 2h30min |
 | 30/05 (Quinta) | GABARITO | Veja o resultado e revise suas respostas | [Vestibulinho ETEC - Provas Anteriores](https://www.vestibulinhoetec.com.br/provas-gabaritos/) | 30min |
 | 01/06 (Sábado) | REVISÃO | Revise os conteúdos com mais dificuldades e os mais importantes | - | - |
