@@ -6,18 +6,18 @@
 | *15/05 (Quarta) | História do Brasil | Revisão dos principais períodos (Colônia, Império, República) | [Colônia](https://www.youtube.com/watch?v=6xFgUphkggw) ([EX](https://www.todamateria.com.br/exercicios-brasil-colonial/)) <br> [Império](https://www.youtube.com/watch?v=eERlMeLvQlI&ab_channel=TodaMat%C3%A9ria) ([EX](https://exercicios.brasilescola.uol.com.br/exercicios-historia-do-brasil/exercicios-sobre-brasil-imperio.htm)) - [República]() ([EX]()) | 1h00min |
 | *16/05 (Quinta) | Geografia do Brasil | Relevo, clima, vegetação, recursos hídricos | [Relevo, clima, vegetação, recursos hídricos](https://youtube.com/playlist?list=PLeJIU-LYCJ7LWhY__-rfhpLgvy9K991T9&si=NUj8g1ttPLd9rlsH) | 1h30min |
 | *16/05 (Quinta) | Matemática Básica | Operações básicas, frações, porcentagem | [frações, porcentagem](https://youtube.com/playlist?list=PLeJIU-LYCJ7Jd5pf0ljOZwRriUfwVlHfv&si=PZeqLU6ml6VvNVRj)  | 1h00min |
-| *18/05 (Sábado) | Conteúdo da Semana | Material que não teve tempo para estudar | - | 1h30min |
-| *18/05 (Sábado) | História de São Paulo | Formação do Estado, eventos e personagens importantes | [1º Vídeo](https://youtu.be/XnsMmB5gsY0?si=jIMYo_sFzSyDWZM0) <br> [2º Vídeo](https://youtu.be/N6qpCi_DpQI?si=hnTPaRaUg9bJvK1V) | 1h00min |
+| 18/05 (Sábado) | Conteúdo da Semana | Material que não teve tempo para estudar | - | 1h30min |
+| 18/05 (Sábado) | História de São Paulo | Formação do Estado, eventos e personagens importantes | [1º Vídeo](https://youtu.be/XnsMmB5gsY0?si=jIMYo_sFzSyDWZM0) <br> [2º Vídeo](https://youtu.be/N6qpCi_DpQI?si=hnTPaRaUg9bJvK1V) | 1h00min |
 
 
 ## Semana 2 
 
 | Data | Assunto | Conteúdo | Materiais / Links | Duração |
 |---|---|---|---|---|
-| *20/05 (Segunda) | Geografia de São Paulo | Meio ambiente, recursos hídricos, áreas protegidas | [Secretaria do Meio Ambiente de São Paulo - Portal](https://www.ambiente.sp.gov.br/) | 1h30min |
-| *20/05 (Segunda) | Matemática | Geometria básica (triângulos, quadriláteros, circunferência, área) | [Khan Academy - Geometria](https://pt.khanacademy.org/math/geometry) <br> [Só Matemática - Geometria](https://www.somatematica.com.br/fundam/geom/geom.php) | 1h00min |
-| *21/05 (Terça) | Interpretação de Textos | Figuras de linguagem e conectivos | [Portal da Língua Portuguesa - Figuras de Linguagem](https://www.portaldalinguaportuguesa.org/textos/183-figuras-de-linguagem-defini%C3%A7%C3%B5es-e-exemplos) <br> [Gramática Online - Conjunções e Conectivos](https://www.gramaticaonline.com.br/conjuncoes-e-conectivos/) | 1h30min |
-| *21/05 (Terça) | História do Brasil | Exercícios de provas anteriores | [Vestibulinho ETEC - Provas Anteriores](https://www.vestibulinhoetec.com.br/provas-gabaritos/) | 1h00min |
+| 20/05 (Segunda) | Geografia de São Paulo | Meio ambiente, recursos hídricos, áreas protegidas | [Secretaria do Meio Ambiente de São Paulo - Portal](https://www.ambiente.sp.gov.br/) | 1h30min |
+| 20/05 (Segunda) | Matemática | Geometria básica (triângulos, quadriláteros, circunferência, área) | [Khan Academy - Geometria](https://pt.khanacademy.org/math/geometry) <br> [Só Matemática - Geometria](https://www.somatematica.com.br/fundam/geom/geom.php) | 1h00min |
+| 21/05 (Terça) | Interpretação de Textos | Figuras de linguagem e conectivos | [Portal da Língua Portuguesa - Figuras de Linguagem](https://www.portaldalinguaportuguesa.org/textos/183-figuras-de-linguagem-defini%C3%A7%C3%B5es-e-exemplos) <br> [Gramática Online - Conjunções e Conectivos](https://www.gramaticaonline.com.br/conjuncoes-e-conectivos/) | 1h30min |
+| 21/05 (Terça) | História do Brasil | Exercícios de provas anteriores | [Vestibulinho ETEC - Provas Anteriores](https://www.vestibulinhoetec.com.br/provas-gabaritos/) | 1h00min |
 | 22/05 (Quarta) | História de São Paulo | Exercícios de provas anteriores | [Vestibulinho ETEC - Provas Anteriores](https://www.vestibulinhoetec.com.br/provas-gabaritos/) | 1h30min |
 | 22/05 (Quarta) | Matemática Básica | Razão e proporção, regra de três simples | [Khan Academy - Matemática](https://pt.khanacademy.org/math) <br> [Matemática Essencial - Cálculos básicos](https://www.matematicessencial.com.br/matematica-basica/) | 1h00min |
 | 23/05 (Quinta) | REVISÃO | Revise os conteúdos estudados na semana | - | 1h30min |
