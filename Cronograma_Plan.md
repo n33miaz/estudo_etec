@@ -16,8 +16,8 @@
 |---|---|---|---|---|
 | 20/05 (Segunda) | Geografia de São Paulo | Meio ambiente, recursos hídricos, áreas protegidas | [Secretaria do Meio Ambiente de São Paulo - Portal](https://www.ambiente.sp.gov.br/) | 1h30min |
 | 20/05 (Segunda) | Matemática | Geometria básica (triângulos, quadriláteros, circunferência, área) | [Khan Academy - Geometria](https://pt.khanacademy.org/math/geometry) <br> [Só Matemática - Geometria](https://www.somatematica.com.br/fundam/geom/geom.php) | 1h00min |
-| 21/05 (Terça) | Interpretação de Textos | Figuras de linguagem e conectivos | [Portal da Língua Portuguesa - Figuras de Linguagem](https://www.portaldalinguaportuguesa.org/textos/183-figuras-de-linguagem-defini%C3%A7%C3%B5es-e-exemplos) <br> [Gramática Online - Conjunções e Conectivos](https://www.gramaticaonline.com.br/conjuncoes-e-conectivos/) | 1h30min |
-| 21/05 (Terça) | - | - | []() | 1h00min |
+| 21/05 <br> (Terça) | Interpretação de Textos | Figuras de linguagem e conectivos | [Portal da Língua Portuguesa - Figuras de Linguagem](https://www.portaldalinguaportuguesa.org/textos/183-figuras-de-linguagem-defini%C3%A7%C3%B5es-e-exemplos) <br> [Gramática Online - Conjunções e Conectivos](https://www.gramaticaonline.com.br/conjuncoes-e-conectivos/) | 1h30min |
+| 21/05 <br> (Terça) | - | - | []() | 1h00min |
 | 22/05 (Quarta) | - | - | []() | 1h30min |
 | 22/05 (Quarta) | Matemática Básica | Razão e proporção, regra de três simples | [Khan Academy - Matemática](https://pt.khanacademy.org/math) <br> [Matemática Essencial - Cálculos básicos](https://www.matematicessencial.com.br/matematica-basica/) | 1h00min |
 | 25/05 (Quinta) | Ciências da Natureza | Biologia (conceitos básicos) | [Khan Academy - Biologia](https://pt.khanacademy.org/science/biology) | 1h30min |
@@ -33,29 +33,29 @@
 |---|---|---|---|---|
 | 27/05 (Segunda) | Geografia do Brasil | Exercícios de provas anteriores | [Vestibulinho ETEC - Provas Anteriores](https://www.vestibulinhoetec.com.br/provas-gabaritos/) | 1h30min |
 | 27/05 (Segunda) | Matemática | Geometria básica (volume) | [Khan Academy - Geometria](https://pt.khanacademy.org/math/geometry) <br> [Só Matemática - Geometria](https://www.somatematica.com.br/fundam/geom/geom.php) | 1h00min |
-| 28/05 (Terça) | Ciências da Natureza | Física (conceitos básicos) | [Khan Academy - Física](https://pt.khanacademy.org/science/physics) | 1h30min |
-| 28/05 (Terça) | Atualidades | Temas relacionados à Amazônia | [WWF-Brasil - Amazônia](https://www.wwf.org.br/natureza/amazonia/) <br> [Instituto Socioambiental - ISA](https://www.socioambiental.org/) | 1h00min |
+| 28/05 <br> (Terça) | Ciências da Natureza | Física (conceitos básicos) | [Khan Academy - Física](https://pt.khanacademy.org/science/physics) | 1h30min |
+| 28/05 <br> (Terça) | Atualidades | Temas relacionados à Amazônia | [WWF-Brasil - Amazônia](https://www.wwf.org.br/natureza/amazonia/) <br> [Instituto Socioambiental - ISA](https://www.socioambiental.org/) | 1h00min |
 | 29/05 (Quarta) | Ciências da Natureza | Biologia (relações ecológicas, adaptação dos seres vivos, cadeia alimentar) | [Biologia Net - Ecologia](https://www.biologianet.com/ecologia/) | 1h30min |
 | 29/05 (Quarta) | Ciências da Natureza | Química (compostos químicos, fórmulas, tipos de substâncias) | [Química Nova na Escola - Artigos](https://qnesc.sbq.org.br/online/) | 1h00min |
 | 30/05 (Quinta) | PROVA TESTE | Faça uma prova antiga da ETEC com calma e dedicação | [Vestibulinho ETEC - Provas Anteriores](https://www.vestibulinhoetec.com.br/provas-gabaritos/) | 2h30min |
 | 30/05 (Quinta) | GABARITO | Veja o resultado e revise suas respostas | [Vestibulinho ETEC - Provas Anteriores](https://www.vestibulinhoetec.com.br/provas-gabaritos/) | 30min |
-| 01/06 (Sábado) | PROVA TESTE | Faça uma prova antiga da ETEC com calma e dedicação | [Vestibulinho ETEC - Provas Anteriores](https://www.vestibulinhoetec.com.br/provas-gabaritos/) | 2h30min |
-| 01/06 (Sábado) | GABARITO | Veja o resultado e revise suas respostas | [Vestibulinho ETEC - Provas Anteriores](https://www.vestibulinhoetec.com.br/provas-gabaritos/) | 30min |
+| 01/06 (Sábado) | REVISÃO | Revise os conteúdos com mais dificuldades e os mais importantes | - | - |
+| 01/06 (Sábado) | REVISÃO | Revise os conteúdos com mais dificuldades e os mais importantes | - | - |
 
 ## Semana 4 
 
 | Data | Assunto | Conteúdo | Materiais / Links | Duração |
 |---|---|---|---|---|
-| 03/06 (Segunda) | REVISÃO | Revise os conteúdos com mais dificuldades e os mais importantes | - | 1h30min |
-| 03/06 (Segunda) | Simulação de Prova | Resolva uma prova anterior completa do Vestibulinho ETEC para testar seus conhecimentos e ritmo. | [Vestibulinho ETEC - Provas Anteriores](https://www.vestibulinhoetec.com.br/provas-gabaritos/) | 1h30min |
-| 04/06 (Terça) | Revisão geral | Revise os conteúdos com mais dificuldades e os mais importantes | - | 1h30min |
-| 04/06 (Terça) | Exercícios | Resolva questões de provas anteriores do Vestibulinho | [Vestibulinho ETEC - Provas Anteriores](https://www.vestibulinhoetec.com.br/provas-gabaritos/) | 1h00min |
-| 05/06 (Quarta) | REVISÃO | Revise os conteúdos com mais dificuldades e os mais importantes | - | 1h30min |
-| 05/06 (Quarta) | Exercícios | Resolva questões de provas anteriores do Vestibulinho | [Vestibulinho ETEC - Provas Anteriores](https://www.vestibulinhoetec.com.br/provas-gabaritos/) | 1h00min |
-| 06/06 (Quinta) | REVISÃO | Revise os conteúdos com mais dificuldades e os mais importantes | - | 1h30min |
-| 06/06 (Quinta) | Exercícios | Resolva questões de provas anteriores do Vestibulinho | [Vestibulinho ETEC - Provas Anteriores](https://www.vestibulinhoetec.com.br/provas-gabaritos/) | 1h00min |
-| 08/06 (Sábado) | REVISÃO | Revise os conteúdos com mais dificuldades e os mais importantes | - | 1h30min |
-| 08/06 (Sábado) | Exercícios | Resolva questões de provas anteriores do Vestibulinho | [Vestibulinho ETEC - Provas Anteriores](https://www.vestibulinhoetec.com.br/provas-gabaritos/) | 1h00min |
+| 03/06 (Segunda) | PROVA TESTE | Faça uma prova antiga da ETEC com calma e dedicação | [Vestibulinho ETEC - Provas Anteriores](https://www.vestibulinhoetec.com.br/provas-gabaritos/) | 2h30min |
+| 03/06 (Segunda) | GABARITO | Veja o resultado e revise suas respostas | [Vestibulinho ETEC - Provas Anteriores](https://www.vestibulinhoetec.com.br/provas-gabaritos/) | 30min |
+| 04/06 <br> (Terça) | REVISÃO | Revise os conteúdos com mais dificuldades e os mais importantes | - | - |
+| 04/06 <br> (Terça) | REVISÃO | Revise os conteúdos com mais dificuldades e os mais importantes | - | - |
+| 05/06 (Quarta) | PROVA TESTE | Faça uma prova antiga da ETEC com calma e dedicação | [Vestibulinho ETEC - Provas Anteriores](https://www.vestibulinhoetec.com.br/provas-gabaritos/) | 2h30min |
+| 05/06 (Quarta) | GABARITO | Veja o resultado e revise suas respostas | [Vestibulinho ETEC - Provas Anteriores](https://www.vestibulinhoetec.com.br/provas-gabaritos/) | 30min |
+| 06/06 (Quinta) | REVISÃO | Revise os conteúdos com mais dificuldades e os mais importantes | - | - |
+| 06/06 (Quinta) | REVISÃO | Revise os conteúdos com mais dificuldades e os mais importantes | - | - |
+| 08/06 (Sábado) | PROVA TESTE | Faça uma prova antiga da ETEC com calma e dedicação | [Vestibulinho ETEC - Provas Anteriores](https://www.vestibulinhoetec.com.br/provas-gabaritos/) | 2h30min |
+| 08/06 (Sábado) | GABARITO | Veja o resultado e revise suas respostas | [Vestibulinho ETEC - Provas Anteriores](https://www.vestibulinhoetec.com.br/provas-gabaritos/) | 30min |
 
 **Após a prova:**
 
