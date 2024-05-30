@@ -14,7 +14,7 @@
 
 | Data | Assunto | Conteúdo | Materiais / Links | Duração |
 |---|---|---|---|---|
-| 20/05 (Segunda) | Geografia de São Paulo | Meio ambiente, recursos hídricos, áreas protegidas | [Secretaria do Meio Ambiente de São Paulo - Portal](https://www.ambiente.sp.gov.br/) | 1h30min |
+| 20/05 (Segunda) | Geografia de São Paulo | Meio ambiente, recursos hídricos, áreas protegidas | [Meio ambiente](https://www.youtube.com/watch?v=k5oTxQdV_Y0&ab_channel=Prof.JeanGrafia%7CGabaritaGeo%7C) - [Áreas Protegidas](https://www.youtube.com/watch?v=frm3DinxAhE&ab_channel=GuiadaFloresta) | 1h30min |
 | 20/05 (Segunda) | Matemática | Geometria básica (triângulos, quadriláteros, circunferência, área) | [Khan Academy - Geometria](https://pt.khanacademy.org/math/geometry) <br> [Só Matemática - Geometria](https://www.somatematica.com.br/fundam/geom/geom.php) | 1h00min |
 | 21/05 <br> (Terça) | Interpretação de Textos | Figuras de linguagem e conectivos | [Portal da Língua Portuguesa - Figuras de Linguagem](https://www.portaldalinguaportuguesa.org/textos/183-figuras-de-linguagem-defini%C3%A7%C3%B5es-e-exemplos) <br> [Gramática Online - Conjunções e Conectivos](https://www.gramaticaonline.com.br/conjuncoes-e-conectivos/) | 1h30min |
 | 21/05 <br> (Terça) | - | - | []() | 1h00min |
